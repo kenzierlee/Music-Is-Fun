@@ -1,0 +1,26 @@
+body {
+    background-image: url("images/itunesbackground.jpg");
+    background-repeat: initial
+    max-width: 100vw
+}
+.album-cover {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.song-card {
+    background: rgba(128, 127, 137, 0.75);
+    border-radius: 10px;
+}
+h1 {
+    color: #fff
+}
+h2 {
+    font-size: 1.5rem
+}
+h3 {
+    font-size: 1rem
+}
+
